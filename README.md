@@ -91,7 +91,7 @@ Completion Time: [(1, 6), (2, 5), (3, 6)]
 
 ## 🛠️ How to Run
 
-python main.py
+`python main.py`
 
 
 Make sure your test files (tc_heap1.txt, tc_treasury1.txt, tc_treasury2.txt) are in the same directory.
