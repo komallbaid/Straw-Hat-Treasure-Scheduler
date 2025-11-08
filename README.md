@@ -1,4 +1,9 @@
 # Treasure Quest: The Straw Hat Crew Scheduler
+A load-balanced treasure scheduling simulator built using custom heaps and event-driven task processing.
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 
 A Python-based scheduling engine that models how the Straw Hat crew processes incoming treasures using:
 - **Custom binary heaps**
