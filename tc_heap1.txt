@@ -1,0 +1,14 @@
+Insert 10
+Insert 4
+Insert 7
+Top
+Extract
+Insert 1
+Insert 15
+Top
+Extract
+Extract
+Insert -3
+Insert 2
+Top
+Print
